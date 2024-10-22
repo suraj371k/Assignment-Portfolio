@@ -1,24 +1,24 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "assignment-portfolio",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "Assignment Portfolio",
   "source": "src/index.html",
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
+  "homepage": "https://suraj371k.github.io/Assignment-Portfolio", 
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{github-username}.github.io/{repo-name}'",
+    "build-gh": "parcel build --public-url 'https://suraj371k.github.io/Assignment-Portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/suraj371k/Assignment-Portfolio.git"
   },
-  "author": "Microsoft",
+  "author": "Suraj Kushwaha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+    "url": "https://github.com/suraj371k/Assignment-Portfolio/issues"
   },
   "dependencies": {
     "react": "^18.2.0",

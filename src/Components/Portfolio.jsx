@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Shopping Cart Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A fully functional shopping cart application built with React, Tailwind CSS, and Redux Toolkit. This project showcases my skills in state management, responsive design, and seamless user experience.",
+    url: "https://cart-seven-orcin.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Logistic Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    "This transportation service website is built with React and Tailwind CSS, offering a modern, responsive design to enhance user experience. The website provides seamless navigation and user-friendly interface.",
+    url: "https://transport-sepia.vercel.app/",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created Resume and deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://suraj371k.github.io/Resume/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Food Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    "I developed the frontend of a food website using React. This project showcases my skills in creating dynamic and responsive web interfaces, focusing on user-friendly design and seamless navigation",
+    url: "https://food-web-dun.vercel.app/",
   },
 ];
 
